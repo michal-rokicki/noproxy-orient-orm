@@ -1,0 +1,9 @@
+{
+  "@type": "d",
+  "@rid": "#12:0",
+  "@version": 1,
+  "@class": "RenamedFields",
+  "name": "test",
+  "field": "asd",
+  "field2": "zxc"
+}
